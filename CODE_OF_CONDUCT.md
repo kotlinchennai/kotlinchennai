@@ -1,5 +1,5 @@
 
-# KotlinChennai Covenant Code of Conduct
+# KotlinChennai Code of Conduct
 
 ## Our Pledge
 
